@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ba3cc6dc819726549a5488edd36ed56b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Perforama
+  fontNames:
+  - Perforama
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 19f1cdbd9d95a7b4283976b2693174d4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
